@@ -295,11 +295,11 @@ export default function Nurture() {
                 <div className="bg-white p-4 rounded-lg border border-red-200">
                   <h4 className="font-medium text-gray-900 mb-3">Personalized Nurturing Copy</h4>
                   <div className="prose prose-sm text-gray-700">
-                    <p className="mb-3"><strong>Subject:</strong> Ready to 10x your transaction speed? Let's talk implementation</p>
+                    <p className="mb-3"><strong>Subject:</strong> Ready to 10x your transaction speed? Let&apos;s talk implementation</p>
                     
                     <div className="bg-gray-50 p-3 rounded border-l-4 border-red-500">
                       <p className="mb-2">Hi Alexandra,</p>
-                      <p className="mb-2">I noticed you're evaluating solutions for FinFlow's real-time transaction challenges. Based on your demo questions about implementation timelines, I wanted to share how we helped <strong>PayStream (similar Series B FinTech)</strong> reduce their transaction processing time by 89% in just 6 weeks.</p>
+                      <p className="mb-2">I noticed you&apos;re evaluating solutions for FinFlow&apos;s real-time transaction challenges. Based on your demo questions about implementation timelines, I wanted to share how we helped <strong>PayStream (similar Series B FinTech)</strong> reduce their transaction processing time by 89% in just 6 weeks.</p>
                       
                       <p className="mb-2"><strong>What we achieved for PayStream:</strong></p>
                       <ul className="list-disc list-inside mb-3 text-sm">
@@ -308,7 +308,7 @@ export default function Nurture() {
                         <li>$2.3M saved annually in infrastructure costs</li>
                       </ul>
 
-                      <p className="mb-2">Given FinFlow's growth trajectory, I'd love to show you a <strong>custom demo with your actual transaction volume</strong> to demonstrate the ROI impact.</p>
+                      <p className="mb-2">Given FinFlow&apos;s growth trajectory, I&apos;d love to show you a <strong>custom demo with your actual transaction volume</strong> to demonstrate the ROI impact.</p>
                       
                       <p className="mb-2">I have a 30-minute slot available this Thursday at 3 PM or Friday at 11 AM. Which works better for a founder-to-founder conversation?</p>
                       
@@ -449,9 +449,9 @@ export default function Nurture() {
                     
                     <div className="bg-gray-50 p-3 rounded border-l-4 border-yellow-500">
                       <p className="mb-2">Hi David,</p>
-                      <p className="mb-2">I saw you downloaded our "SaaS Scaling Playbook" - great choice! Since TechStart is in the growth phase, I thought you'd find value in this case study from <strong>CloudNine (similar early-stage SaaS)</strong>.</p>
+                      <p className="mb-2">I saw you downloaded our &quot;SaaS Scaling Playbook&quot; - great choice! Since TechStart is in the growth phase, I thought you&apos;d find value in this case study from <strong>CloudNine (similar early-stage SaaS)</strong>.</p>
                       
-                      <p className="mb-2"><strong>CloudNine's Challenge:</strong> Manual onboarding was taking 2 weeks per client, limiting their growth to 10 new customers/month.</p>
+                      <p className="mb-2"><strong>CloudNine&apos;s Challenge:</strong> Manual onboarding was taking 2 weeks per client, limiting their growth to 10 new customers/month.</p>
                       
                       <p className="mb-2"><strong>Our Solution Impact:</strong></p>
                       <ul className="list-disc list-inside mb-3 text-sm">
@@ -460,9 +460,9 @@ export default function Nurture() {
                         <li>Team efficiency: 5x improvement</li>
                       </ul>
 
-                      <p className="mb-2">I've attached the detailed case study and would love to discuss how similar automation could accelerate TechStart's growth.</p>
+                      <p className="mb-2">I&apos;ve attached the detailed case study and would love to discuss how similar automation could accelerate TechStart&apos;s growth.</p>
                       
-                      <p className="mb-2">Also, we're hosting a live workshop next week: <strong>"From Manual to Automated: SaaS Growth Hacks"</strong> - would you like me to save you a spot?</p>
+                      <p className="mb-2">Also, we&apos;re hosting a live workshop next week: <strong>&quot;From Manual to Automated: SaaS Growth Hacks&quot;</strong> - would you like me to save you a spot?</p>
                       
                       <p>Cheers,<br/>
                       <strong>Sarah Johnson</strong><br/>
@@ -549,7 +549,7 @@ export default function Nurture() {
                     
                     <div className="bg-gray-50 p-3 rounded border-l-4 border-green-500">
                       <p className="mb-2">Hi Maria,</p>
-                      <p className="mb-2">Hope TravelEase is thriving! I know you're bootstrapping and focused on growth - here are 3 travel tech trends we're seeing that might spark some ideas:</p>
+                      <p className="mb-2">Hope TravelEase is thriving! I know you&apos;re bootstrapping and focused on growth - here are 3 travel tech trends we&apos;re seeing that might spark some ideas:</p>
                       
                       <p className="mb-2"><strong>1. Micro-Personalization:</strong> Travel platforms using AI to customize experiences for groups of &lt;10 users (great for niche markets)</p>
                       
@@ -557,7 +557,7 @@ export default function Nurture() {
                       
                       <p className="mb-2"><strong>3. Voice-First Booking:</strong> Early-stage opportunity in voice-commerce for travel</p>
 
-                      <p className="mb-2">I've also attached our <strong>"Bootstrap to Scale: Travel Tech Edition"</strong> guide - it covers 15 growth hacks that don't require VC funding.</p>
+                      <p className="mb-2">I&apos;ve also attached our <strong>&quot;Bootstrap to Scale: Travel Tech Edition&quot;</strong> guide - it covers 15 growth hacks that don&apos;t require VC funding.</p>
                       
                       <p className="mb-2">No agenda here, just sharing insights that might be helpful for your journey. Feel free to reach out if you ever want to brainstorm!</p>
                       
@@ -635,7 +635,8 @@ export default function Nurture() {
                     Optimize High Intent Flow
                   </h4>
                   <p className="text-sm text-blue-700">
-                    Consider reducing delay between steps 1-2 for high intent leads. Current conversion rate could improve by 15%.
+                    Conversion Rate: {leads.length > 0 ? ((stageStats.Customer / leads.length) * 100).toFixed(1) : 0}% 
+                    • Active Pipeline: {stageStats.Lead + stageStats.MQL + stageStats.SQL} leads
                   </p>
                 </div>
               </div>

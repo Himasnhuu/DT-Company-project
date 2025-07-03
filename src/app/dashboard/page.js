@@ -297,7 +297,7 @@ export default function Dashboard() {
               )}
               {filters.search && (
                 <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800">
-                  Search: "{filters.search}"
+                  Search: &quot;{filters.search}&quot;
                 </span>
               )}
             </div>
