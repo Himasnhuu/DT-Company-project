@@ -73,6 +73,15 @@ export default function Nurture() {
     loadLeads();
   }, []);
 
+  // Calculate summary stats for nurture page
+  const stageStats = {
+    Lead: leads.filter(lead => lead.stage === 'Lead').length,
+    MQL: leads.filter(lead => lead.stage === 'MQL').length,
+    SQL: leads.filter(lead => lead.stage === 'SQL').length,
+    Customer: leads.filter(lead => lead.stage === 'Customer').length,
+    Nurtured: leads.filter(lead => lead.stage === 'Nurtured').length
+  };
+
   const generateAISuggestion = async (intentLevel = 'high') => {
     setAiLoading(true);
     setAiError('');
