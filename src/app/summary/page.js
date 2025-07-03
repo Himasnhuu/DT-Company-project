@@ -376,7 +376,7 @@ export default function Summary() {
             <p className="text-gray-200 leading-relaxed">
               Data systems provide the intelligence; human judgment executes the strategy. Our platform captures granular behavioral data 
               (pricing page visits, demo requests, email engagement) but preserves human discretion in nurture timing and message personalization. 
-              The CRM suggests actions; sales teams decide execution based on context that algorithms can't capture.
+              The CRM suggests actions; sales teams decide execution based on context that algorithms can&apos;t capture.
             </p>
           </div>
           
