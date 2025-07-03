@@ -73,7 +73,7 @@ export default function Summary() {
                 Our funnel architecture prioritizes <strong>intent-driven segmentation</strong> over traditional linear progression.
               </p>
               <p>
-                Rather than forcing leads through rigid stages, we've built adaptive pathways that respond to behavioral signals.
+                Rather than forcing leads through rigid stages, we&apos;ve built adaptive pathways that respond to behavioral signals.
               </p>
             </div>
             

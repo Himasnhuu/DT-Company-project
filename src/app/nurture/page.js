@@ -487,7 +487,7 @@ export default function Nurture() {
                     
                     <div className="bg-green-50 p-3 rounded border-l-4 border-green-500">
                       <p className="font-medium text-green-900 mb-1">Community Building</p>
-                      <p className="text-green-800">Invite to exclusive "SaaS Founders Circle" Slack community</p>
+                      <p className="text-green-800">Invite to exclusive &quot;SaaS Founders Circle&quot; Slack community</p>
                     </div>
                     
                     <div className="bg-purple-50 p-3 rounded border-l-4 border-purple-500">
