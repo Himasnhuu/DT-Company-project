@@ -1,0 +1,200 @@
+[
+  {
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "name": "Alexandra Chen",
+    "company": "FinFlow Technologies",
+    "email": "alexandra.chen@finflow.tech",
+    "stage": "SQL",
+    "industry": "FinTech",
+    "leadSource": "LinkedIn DMs",
+    "intentLevel": "High",
+    "lastEngaged": "2025-06-28"
+  },
+  {
+    "id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Marcus Williams",
+    "company": "EduSphere Learning",
+    "email": "marcus.williams@edusphere.com",
+    "stage": "MQL",
+    "industry": "EdTech",
+    "leadSource": "Facebook Ads",
+    "intentLevel": "Mid",
+    "lastEngaged": "2025-06-26"
+  },
+  {
+    "id": "6ba7b811-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Dr. Sarah Thompson",
+    "company": "MediCore Solutions",
+    "email": "sarah.thompson@medicore.health",
+    "stage": "Customer",
+    "industry": "HealthTech",
+    "leadSource": "Email Campaign",
+    "intentLevel": "High",
+    "lastEngaged": "2025-06-30"
+  },
+  {
+    "id": "6ba7b812-9dad-11d1-80b4-00c04fd430c8",
+    "name": "James Rodriguez",
+    "company": "RetailMax Inc",
+    "email": "james.rodriguez@retailmax.com",
+    "stage": "Lead",
+    "industry": "E-commerce",
+    "leadSource": "Google Ads",
+    "intentLevel": "Low",
+    "lastEngaged": "2025-06-22"
+  },
+  {
+    "id": "6ba7b813-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Emma Foster",
+    "company": "CloudNine Logistics",
+    "email": "emma.foster@cloudnine.logistics",
+    "stage": "SQL",
+    "industry": "Logistics",
+    "leadSource": "Referral",
+    "intentLevel": "High",
+    "lastEngaged": "2025-06-29"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430c8",
+    "name": "David Park",
+    "company": "TechStart Innovations",
+    "email": "david.park@techstart.io",
+    "stage": "MQL",
+    "industry": "SaaS",
+    "leadSource": "Webinar",
+    "intentLevel": "Mid",
+    "lastEngaged": "2025-06-25"
+  },
+  {
+    "id": "6ba7b815-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Lisa Martinez",
+    "company": "GreenEnergy Corp",
+    "email": "lisa.martinez@greenenergy.corp",
+    "stage": "Nurtured",
+    "industry": "Clean Energy",
+    "leadSource": "Trade Show",
+    "intentLevel": "Low",
+    "lastEngaged": "2025-06-20"
+  },
+  {
+    "id": "6ba7b816-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Michael Johnson",
+    "company": "SecureVault Financial",
+    "email": "michael.johnson@securevault.fin",
+    "stage": "Customer",
+    "industry": "FinTech",
+    "leadSource": "Partnership",
+    "intentLevel": "High",
+    "lastEngaged": "2025-07-01"
+  },
+  {
+    "id": "6ba7b817-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Rachel Kim",
+    "company": "SmartLearn Academy",
+    "email": "rachel.kim@smartlearn.edu",
+    "stage": "Lead",
+    "industry": "EdTech",
+    "leadSource": "Content Marketing",
+    "intentLevel": "Mid",
+    "lastEngaged": "2025-06-24"
+  },
+  {
+    "id": "6ba7b818-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Robert Lee",
+    "company": "HealthSync Systems",
+    "email": "robert.lee@healthsync.com",
+    "stage": "SQL",
+    "industry": "HealthTech",
+    "leadSource": "LinkedIn DMs",
+    "intentLevel": "High",
+    "lastEngaged": "2025-06-27"
+  },
+  {
+    "id": "6ba7b819-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Sofia Gonzalez",
+    "company": "FoodieConnect",
+    "email": "sofia.gonzalez@foodieconnect.app",
+    "stage": "MQL",
+    "industry": "Food Tech",
+    "leadSource": "Social Media",
+    "intentLevel": "Mid",
+    "lastEngaged": "2025-06-23"
+  },
+  {
+    "id": "6ba7b820-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Andrew Davis",
+    "company": "AutoFlow Manufacturing",
+    "email": "andrew.davis@autoflow.mfg",
+    "stage": "Lead",
+    "industry": "Manufacturing",
+    "leadSource": "Cold Email",
+    "intentLevel": "Low",
+    "lastEngaged": "2025-06-21"
+  },
+  {
+    "id": "6ba7b821-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Jessica Wong",
+    "company": "PropTech Innovations",
+    "email": "jessica.wong@proptech.innovations",
+    "stage": "Customer",
+    "industry": "PropTech",
+    "leadSource": "Email Campaign",
+    "intentLevel": "High",
+    "lastEngaged": "2025-06-30"
+  },
+  {
+    "id": "6ba7b822-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Kevin O'Brien",
+    "company": "SportsTech Pro",
+    "email": "kevin.obrien@sportstech.pro",
+    "stage": "MQL",
+    "industry": "Sports Tech",
+    "leadSource": "Podcast Sponsorship",
+    "intentLevel": "Mid",
+    "lastEngaged": "2025-06-26"
+  },
+  {
+    "id": "6ba7b823-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Maria Santos",
+    "company": "TravelEase Platform",
+    "email": "maria.santos@travelease.platform",
+    "stage": "Nurtured",
+    "industry": "Travel Tech",
+    "leadSource": "SEO/Organic",
+    "intentLevel": "Low",
+    "lastEngaged": "2025-06-19"
+  },
+  {
+    "id": "6ba7b824-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Thomas Anderson",
+    "company": "CyberShield Security",
+    "email": "thomas.anderson@cybershield.sec",
+    "stage": "SQL",
+    "industry": "Cybersecurity",
+    "leadSource": "Referral",
+    "intentLevel": "High",
+    "lastEngaged": "2025-06-28"
+  },
+  {
+    "id": "6ba7b825-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Amanda Roberts",
+    "company": "AgriTech Solutions",
+    "email": "amanda.roberts@agritech.solutions",
+    "stage": "Lead",
+    "industry": "AgriTech",
+    "leadSource": "Industry Forum",
+    "intentLevel": "Mid",
+    "lastEngaged": "2025-06-25"
+  },
+  {
+    "id": "6ba7b826-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Benjamin Clark",
+    "company": "DigitalArt Marketplace",
+    "email": "benjamin.clark@digitalart.market",
+    "stage": "MQL",
+    "industry": "Digital Media",
+    "leadSource": "Influencer Marketing",
+    "intentLevel": "Mid",
+    "lastEngaged": "2025-06-27"
+  }
+]

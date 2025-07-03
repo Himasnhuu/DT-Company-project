@@ -1,0 +1,24 @@
+/* Custom mobile improvements */
+@media (max-width: 640px) {
+  /* Ensure tables don't break layout on small screens */
+  .table-responsive {
+    font-size: 0.75rem;
+  }
+  
+  /* Improve button spacing on mobile */
+  .mobile-button-spacing {
+    margin: 0.25rem;
+  }
+  
+  /* Better chart container on mobile */
+  .chart-container-mobile {
+    min-height: 250px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Ensure proper spacing for cards */
+  .card-mobile {
+    margin-bottom: 1rem;
+  }
+}

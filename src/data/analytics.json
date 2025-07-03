@@ -1,0 +1,158 @@
+{
+  "overview": {
+    "totalLeads": 18,
+    "totalIndustries": 12,
+    "conversionRate": 16.7,
+    "avgEngagementDays": 8
+  },
+  "funnel": {
+    "stages": [
+      {
+        "name": "Lead",
+        "count": 4,
+        "value": 45000,
+        "conversionRate": 75.0
+      },
+      {
+        "name": "MQL",
+        "count": 5,
+        "value": 62000,
+        "conversionRate": 60.0
+      },
+      {
+        "name": "SQL",
+        "count": 4,
+        "value": 58000,
+        "conversionRate": 75.0
+      },
+      {
+        "name": "Customer",
+        "count": 3,
+        "value": 85000,
+        "conversionRate": 100.0
+      },
+      {
+        "name": "Nurtured",
+        "count": 2,
+        "value": 25000,
+        "conversionRate": 50.0
+      }
+    ]
+  },
+  "metrics": {
+    "cac": 850,
+    "ltv": 32500,
+    "ltvCacRatio": 38.2,
+    "avgSalesCycle": 42
+  },
+  "marketingChannels": [
+    {
+      "channel": "Facebook Ads",
+      "leads": 2800,
+      "costIncurred": 420000,
+      "conversions": 84,
+      "conversionRate": 3.0,
+      "costPerConversion": 5000,
+      "avgLTV": 180000
+    },
+    {
+      "channel": "Email Campaign",
+      "leads": 1500,
+      "costIncurred": 120000,
+      "conversions": 120,
+      "conversionRate": 8.0,
+      "costPerConversion": 1000,
+      "avgLTV": 150000
+    },
+    {
+      "channel": "LinkedIn DMs",
+      "leads": 800,
+      "costIncurred": 200000,
+      "conversions": 64,
+      "conversionRate": 8.0,
+      "costPerConversion": 3125,
+      "avgLTV": 220000
+    },
+    {
+      "channel": "Google Ads",
+      "leads": 2200,
+      "costIncurred": 350000,
+      "conversions": 66,
+      "conversionRate": 3.0,
+      "costPerConversion": 5303,
+      "avgLTV": 165000
+    },
+    {
+      "channel": "Content Marketing",
+      "leads": 900,
+      "costIncurred": 80000,
+      "conversions": 63,
+      "conversionRate": 7.0,
+      "costPerConversion": 1270,
+      "avgLTV": 140000
+    },
+    {
+      "channel": "Webinar",
+      "leads": 600,
+      "costIncurred": 60000,
+      "conversions": 48,
+      "conversionRate": 8.0,
+      "costPerConversion": 1250,
+      "avgLTV": 175000
+    },
+    {
+      "channel": "Referral",
+      "leads": 400,
+      "costIncurred": 30000,
+      "conversions": 44,
+      "conversionRate": 11.0,
+      "costPerConversion": 682,
+      "avgLTV": 200000
+    },
+    {
+      "channel": "Partnership",
+      "leads": 350,
+      "costIncurred": 50000,
+      "conversions": 35,
+      "conversionRate": 10.0,
+      "costPerConversion": 1429,
+      "avgLTV": 190000
+    },
+    {
+      "channel": "Trade Show",
+      "leads": 250,
+      "costIncurred": 150000,
+      "conversions": 15,
+      "conversionRate": 6.0,
+      "costPerConversion": 10000,
+      "avgLTV": 250000
+    },
+    {
+      "channel": "SEO/Organic",
+      "leads": 1200,
+      "costIncurred": 40000,
+      "conversions": 72,
+      "conversionRate": 6.0,
+      "costPerConversion": 556,
+      "avgLTV": 160000
+    }
+  ],
+  "intentDistribution": [
+    { "name": "High", "count": 7, "value": 155000 },
+    { "name": "Mid", "count": 8, "value": 95000 },
+    { "name": "Low", "count": 3, "value": 25000 }
+  ],
+  "industryBreakdown": [
+    { "name": "FinTech", "count": 2, "leads": 2 },
+    { "name": "EdTech", "count": 2, "leads": 2 },
+    { "name": "HealthTech", "count": 2, "leads": 2 },
+    { "name": "SaaS", "count": 1, "leads": 1 },
+    { "name": "E-commerce", "count": 1, "leads": 1 },
+    { "name": "Other", "count": 10, "leads": 10 }
+  ],
+  "monthly": [
+    { "month": "Apr", "leads": 8, "mqls": 4, "sqls": 2, "customers": 1 },
+    { "month": "May", "leads": 12, "mqls": 7, "sqls": 4, "customers": 2 },
+    { "month": "Jun", "leads": 18, "mqls": 9, "sqls": 6, "customers": 3 }
+  ]
+}
